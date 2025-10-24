@@ -1,0 +1,9 @@
+- tags::Python
+- # Reference
+-
+- # Notes
+- [[Week 1]]
+- [[Week 3]]
+- [[Week 4]]
+- [[Week 5]]
+- [[Week 6]]

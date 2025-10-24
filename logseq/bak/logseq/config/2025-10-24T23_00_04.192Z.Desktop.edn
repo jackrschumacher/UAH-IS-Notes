@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Main" "IS 310"]
+ :favorites ["Bash-notes" "Main" "IS 310"]
 
  ;; Set flashcards interval.
  ;; Expected value:
